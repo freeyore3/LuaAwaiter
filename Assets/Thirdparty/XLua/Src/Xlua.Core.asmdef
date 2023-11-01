@@ -1,0 +1,16 @@
+{
+    "name": "Xlua.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a6706635ef4d22d409c1bbafbde9ccf7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

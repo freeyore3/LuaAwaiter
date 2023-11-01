@@ -1,0 +1,16 @@
+{
+    "name": "XLua.Tutorial",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5b37a11e6fbbe2542aa3580b9973df17"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

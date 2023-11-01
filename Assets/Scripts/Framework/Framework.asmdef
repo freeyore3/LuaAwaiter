@@ -1,0 +1,30 @@
+{
+    "name": "Framework",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5507b1201ee6654596de9a43e02b02c",
+        "GUID:33661e06c33d31b4c9223810bf503247",
+        "GUID:52dfc5cfea1f63f4eb94decaf17a2311",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:8c1b5e158961445498f8a66188fbb2e3",
+        "GUID:a6706635ef4d22d409c1bbafbde9ccf7",
+        "GUID:5b37a11e6fbbe2542aa3580b9973df17",
+        "GUID:26190ac4487fcba46af652bf9498bc0e",
+        "GUID:3791df65f27212742aae0eb756468061",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:5fff7e87b4a8c174a98b11247ea6f7df",
+        "GUID:cdbd023f64e65634db897c70fe99d143",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:1491147abca9d7d4bb7105af628b223e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
