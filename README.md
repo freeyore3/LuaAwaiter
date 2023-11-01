@@ -124,6 +124,7 @@ Test.wait_loop_async = async(function(cancelToken)
             return
         end
     end
+    local t = CS.UnityEngine.Time.time
     await(LuaAwaiter.WhenAll(
         CSharpAsyncLib.Addressable.InstantiateAsync("Assets/Prefabs/TestPrefab1.prefab", cancelToken),
         LuaAwaiter.WaitSeconds(100, cancelToken),
